@@ -220,6 +220,6 @@ Supports **[* / + - % ^]** operands (**multiply**, **divide**, **add**, **subtra
 
 ## Contact
 
-Coded by **@emikode** - feel free to contact me!
+Coded by **@emikodes** - feel free to contact me!
 
 ---
